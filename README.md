@@ -4,12 +4,6 @@ A modern and interactive memory card game built with React, TypeScript, Tailwind
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **Live Site:** [Add Live Link Here]
-
----
-
 ## ✨ Features
 
 ### 🎮 Gameplay
